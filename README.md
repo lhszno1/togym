@@ -50,4 +50,4 @@ IDE 도구 - Sts
 프로젝트 소개
 운동 회원권 및 PT권의 획일화되지 않은 가격정책에 불편을 겪지 않기 위해 센터 별 종목별 가격정찰제를 투입 및 한눈에 보고 결제를 손쉽게하여 코로나 시대에 위험한 발품 을 덜 팔게하기위한 웹 페이지 제작.
 
-소스 https://github.com/TaegyeongHwang/TodayGym
+소스 https://github.com/lhszno1/togym
